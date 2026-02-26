@@ -57,7 +57,7 @@ python main.py
 
 ---
 
-##  English Description
+## EN English Description
 
 A desktop application built with **Python + PyQt6** that displays **current weather for a selected city** and **official exchange rates of the National Bank of Belarus**.
 
