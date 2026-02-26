@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/24523297/README.md)
-# 🌦️ Currency & Weather Desktop App
+#  Currency & Weather Desktop App
 [RU](#-описание-на-русском) | [EN](#-english-description)
 
 ---
@@ -8,22 +8,22 @@
 
 Десктопное приложение на **Python + PyQt6**, которое отображает **погоду в выбранном городе** и **официальные курсы валют НБ РБ** в компактном стильном окне.
 
-### ✨ Возможности
+###  Возможности
 
-- 🌍 Погода в выбранном городе (Open-Meteo)
-- 💱 Курсы валют:
+-  Погода в выбранном городе (Open-Meteo)
+-  Курсы валют:
   - USD
   - EUR
   - RUB
-- 🔄 Автообновление каждые 10 минут
-- 📌 Закрепление окна
-- 🌙 Светлая / тёмная тема
-- ⚙️ Настройки города
-- 🔔 Уведомления об изменении курсов
-- 🧲 Прилипание к краям экрана
-- 🖥️ Работа через системный трей
+-  Автообновление каждые 10 минут
+-  Закрепление окна
+-  Светлая / тёмная тема
+-  Настройки города
+-  Уведомления об изменении курсов
+-  Прилипание к краям экрана
+-  Работа через системный трей
 
-### 🧱 Стек технологий
+###  Стек технологий
 
 - Python 3.10+
 - PyQt6
@@ -32,20 +32,20 @@
 - Pillow
 - plyer
 
-### 🌐 API
+###  API
 
 - Open-Meteo Weather API
 - Open-Meteo Geocoding API
 - API НБРБ
 
-### ▶️ Запуск
+###  Запуск
 
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
 
-### ⚙️ settings.json
+###  settings.json
 
 ```json
 {
@@ -57,26 +57,26 @@ python main.py
 
 ---
 
-## 🇬🇧 English Description
+##  English Description
 
 A desktop application built with **Python + PyQt6** that displays **current weather for a selected city** and **official exchange rates of the National Bank of Belarus**.
 
-### ✨ Features
+###  Features
 
-- 🌍 Weather for any city (Open-Meteo)
-- 💱 Currency rates:
+-  Weather for any city (Open-Meteo)
+-  Currency rates:
   - USD
   - EUR
   - RUB
-- 🔄 Automatic updates every 10 minutes
-- 📌 Window pin / unpin
-- 🌙 Light & Dark themes
-- ⚙️ Persistent city settings
-- 🔔 Currency change notifications
-- 🧲 Screen edge snapping
-- 🖥️ System tray support
+-  Automatic updates every 10 minutes
+-  Window pin / unpin
+-  Light & Dark themes
+-  Persistent city settings
+-  Currency change notifications
+-  Screen edge snapping
+-  System tray support
 
-### 🧱 Tech Stack
+###  Tech Stack
 
 - Python 3.10+
 - PyQt6
@@ -85,20 +85,20 @@ A desktop application built with **Python + PyQt6** that displays **current weat
 - Pillow
 - plyer
 
-### 🌐 APIs Used
+###  APIs Used
 
 - Open-Meteo Weather API
 - Open-Meteo Geocoding API
 - National Bank of Belarus API
 
-### ▶️ Run
+###  Run
 
 ```bash
 pip install -r requirements.txt
 python main.py
 ```
 
-### ⚙️ settings.json
+###  settings.json
 
 ```json
 {
@@ -110,7 +110,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 currency_weather_service/
